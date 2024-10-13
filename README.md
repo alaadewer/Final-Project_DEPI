@@ -3,7 +3,9 @@ supply chain data analysis using Tableau
 
 Data source:
 The company “obviEnce” created this sample using real, anonymized data.
+
 Link to the dataset: https://learn.microsoft.com/en-us/power-bi/create-reports/sample-supplier-quality
+
 Characteristics: 
 •	Simple data for supply chain in six states in the United States of America.
 •	Consists of seven tables which are divided into one fact table (Defected Items) and six dimensions.
